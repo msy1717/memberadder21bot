@@ -1,7 +1,7 @@
 {
-	"group_target": -1001272189728, --> id target group
-	"group_source": -1001344140905, --> id source group
-	"accounts": [ --> 
+	"group_target": -1001272189728, 
+	"group_source": -1001344140905, 
+	"accounts": [1
 		{
 			"phone": "+17123163971",
 			"api_id": 10073356,
